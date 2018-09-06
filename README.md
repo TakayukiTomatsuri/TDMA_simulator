@@ -1,4 +1,4 @@
-# ALOHA simulator
+# TDMA simulator
 This is a TDMA simulator.  
 
 Given the number of stations and delay time, it outputs delay characteristics and throughput characteristics as space-separated CSV (SSV).
